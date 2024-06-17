@@ -1,0 +1,30 @@
+#header {
+    width: 100%;
+    position: relative;
+}
+
+#banner {
+    width: 100%;
+}
+
+#name {
+    color: #002829;
+    position: absolute;
+    top: 5%;
+    font-size: 5vw;
+}
+
+#about {
+    margin: 30px;
+}
+
+#contact {
+    text-align: center;
+}
+
+#gallery {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
